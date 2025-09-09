@@ -500,9 +500,6 @@ Programar em Assembly para microcontroladores como o STM32F411 Black Pill é uma
 
 Esperamos que este guia detalhado o ajude a explorar e dominar a arte da programação em Assembly para sistemas embarcados. Boa sorte e bons códigos!
 
----
 
-**Autor:** Manus AI
-**Data:** Setembro de 2025
 
 
